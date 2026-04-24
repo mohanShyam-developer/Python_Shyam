@@ -1,0 +1,71 @@
+MYSQL INTRO
+============================================================================================================================================================
+Frontend:
+============================================================================================================================================================
+Frontend is the visual, interactive layer of a website or application that users see and interact with directly in their 
+
+
+
+Database Management System(DBMS):
+============================================================================================================================================================
+A Database Management System(DBMS) is a Software designed to store, retrieve, manage and manipulate data efficiently in a structured format. It allows users
+and applications to interact with data using queries without needing to handle low level details like file storage and memory management.
+
+Key Functions of DBMS:
+============================================================================================================================================================
+
+Data storage, retrieval and update
+user accessed control and security
+Data Integrity Management
+Transaction Management and concurrency control
+Backup recovery
+
+Advantages:
+============================================================================================================================================================
+1.Reduced data redundancy
+2.improved data integrity and consistency
+3.enhanced data security
+4.better data sharing among users
+
+
+ACID Properties:
+============================================================================================================================================================
+Atomicity:   All or nothing.
+Consistency: The database remains in valid state.
+Isolation:   Transactions do not interface with each other.
+Durability:  Committed changes are permanent.
+
+
+Data Vs Database Vs DBMS:
+============================================================================================================================================================
+Data : raw facts or figures without context
+Example: 101,durden,70
+Field: smallest unit of data  in a database(column/attribute)
+example: EmpId, EmpName ,SID,Sname,Smarks, EmpSalary etc
+Record: Collection of related fields(row/tuple)
+example:(101,"durden",50):
+Database: organized collection of related records stored together
+example: An employee database contains all employee records
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==========================================================================================================================================================================================================================================================================================================================
+=============================================================================================================================================================
